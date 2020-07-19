@@ -1,4 +1,4 @@
-package com.boss.netty_quickstart;
+package com.boss.nettyquickstart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.boss.netty_quickstart;
+package com.boss.nettyquickstart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
